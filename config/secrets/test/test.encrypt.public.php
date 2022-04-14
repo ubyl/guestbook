@@ -1,0 +1,3 @@
+<?php // test.encrypt.public on Tue, 12 Apr 2022 15:47:20 +0200
+
+return "N90E\xFC\x3CwAR\xFF\x28\x92\xDA\x19\x81O6I\x1B\xA9\xD4KhlD\xE8j\xB5\xBER\xAE\x1B";
