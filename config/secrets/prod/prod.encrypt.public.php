@@ -1,0 +1,3 @@
+<?php // prod.encrypt.public on Thu, 21 Apr 2022 16:19:55 +0200
+
+return "smB\xE5c\x12\xE3\xD3\xCDI\x99\x88\x5D\xA4\xF9v\xC5afN\x98\xB8\xA27p\xD2yj\xF0\xD3\x1F0";
